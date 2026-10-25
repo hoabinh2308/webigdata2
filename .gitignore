@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+data/users.db
+data/products_working.csv
